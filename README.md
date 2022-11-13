@@ -1,3 +1,4 @@
+![logo](https://github.com/Sejal99/Sejal99/blob/main/SEJAL%20SRIVASTAVA.png)
 <h1 align="center">Hi 👋, I'm Sejal Srivastava</h1>
 <h3 align="center">4th Year Engineering student from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
