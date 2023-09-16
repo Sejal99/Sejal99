@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sejal Srivastava</h1>
 <h3 align="center">A passionate Programmer</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/JXA0.gif"> 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejal99&label=Profile%20views&color=0e75b6&style=flat" alt="sejal99" /> </p>
 
 - 🌱 I’m currently learning **SQL,Javascript,Data Structures**
