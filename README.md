@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejal99&label=Profile%20views&color=0e75b6&style=flat" alt="sejal99" /> </p>
 
-- 🌱 I’m currently learning **SQL,Javascript,Data Structures**
+- 🌱 I’m currently learning "https://github.com/Sejal99?tab=repositories"
 
 - 📫 How to reach me **sejal8974@gmail.com**
 
