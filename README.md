@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sejal Srivastava</h1>
 <h3 align="center">A Passionate Programmer</h3>
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/9890798-The-Coder?utm_source=Clipboard_Shot&utm_campaign=alzer81&utm_content=The%20Coder&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=alzer81&utm_content=The%20Coder&utm_medium=Social_Share"> 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/10549/screenshots/9890798/media/f38f0e4d71d9763c7533641d2418b35b.png?resize=1000x750&vertical=center"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejal99&label=Profile%20views&color=0e75b6&style=flat" alt="sejal99" /> </p>
 
 - 🌱 I am currently learning **MERN and Typescript**
