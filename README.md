@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sejal Srivastava</h1>
 <h3 align="center">A Passionate Programmer</h3>
-<img align="right" alt="coding" width="400" src="https://avatars.githubusercontent.com/u/85271912?v=4"> 
+<img align="right" alt="coding" width="400" src=""> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejal99&label=Profile%20views&color=0e75b6&style=flat" alt="sejal99" /> </p>
 
 - 🌱 I am currently learning **MERN and Typescript**
