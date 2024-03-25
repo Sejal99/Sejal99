@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sejal8974@gmail.com**
 
-- ⚡ Fun fact **I think I am too serious🙂**
+- ⚡ Fun fact **I think I am too serious 🙂**
 
 
 <h3 align="left">Connect with me:</h3>
