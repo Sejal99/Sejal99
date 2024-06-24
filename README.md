@@ -17,7 +17,20 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sejal-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sejal-srivastava" height="30" width="40" /></a>
-
+<div className="w-1/2 flex justify-center items-center text-xxs sm:text-lg py-4 pr-2 sm:pr-0">
+          <img
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg"
+            className="w-6 h-6 sm:w-8 sm:h-8 mr-1 sm:mr-4"
+            alt="leetcode"
+          />
+          <input
+            id="leetcode"
+            placeholder="[leetcode username](https://leetcode.com/u/Sejal1299/)"
+            className="outline-none placeholder-gray-700 w-32 sm:w-1/2 border-t-0 border-l-0 border-r-0 border solid border-gray-900 py-1 px-2 focus:border-blue-700"
+            value={social.leetcode}
+            onChange={(event) => handleSocialChange('leetcode', event)}
+          />
+        </div>
 </p>
 
 ### Languages
