@@ -48,7 +48,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sejal99&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sejal99&show_icons=true&locale=en&layout=compact" alt="sejal99" /></p>
