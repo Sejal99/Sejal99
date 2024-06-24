@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sejal Srivastava</h1>
-<h3 align="center">A Passionate Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/10549/screenshots/9890798/media/f38f0e4d71d9763c7533641d2418b35b.png?resize=1000x750&vertical=center"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejal99&label=Profile%20views&color=0e75b6&style=flat" alt="sejal99" /> </p>
 
