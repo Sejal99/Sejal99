@@ -47,7 +47,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-[![An image of @sejal99's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@sejal99)](https://holopin.io/@sejal99)
+[![An image of @sejal99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sejal99)](https://holopin.io/@sejal99)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sejal99&show_icons=true&locale=en&layout=compact" alt="sejal99" /></p>
 
