@@ -6,7 +6,7 @@
 
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejal99)](https://github.com/sejal99/github-readme-stats)
 - 👨‍💻 All of my projects are available at "https://github.com/Sejal99?tab=repositories"
 
 - 📫 How to reach me **sejal8974@gmail.com**
