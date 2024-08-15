@@ -1,20 +1,16 @@
 
-<h1 align="center">Hi 👋, I'm Sejal Srivastava</h1>
-<h3 align="center">Fullstack Developer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/10549/screenshots/9890798/media/f38f0e4d71d9763c7533641d2418b35b.png?resize=1000x750&vertical=center"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sejal99&label=Profile%20views&color=0e75b6&style=flat" alt="sejal99" /> </p>
+ <h1> Hey! Nice to see you 🖐️ </h1>
+
+- 🔭 I’m a **Full Stack Web Developer**
+
+- 📫 Reach me on **sejal8974@gmail.com**
+
+- 💬 Have a look at my [Portfolio](https://my-portfolio-sejal99.vercel.app/)
+  
+-  🔭 Have a look at my [Resume](https://drive.google.com/file/d/1_ZYhBf20TExJlfu7MqvUwJPPLbzw8T6I/view?usp=drivesdk)
 
 
-
-
-- 👨‍💻 All of my projects are available at "https://github.com/Sejal99?tab=repositories"
-
-- 📫 How to reach me **sejal8974@gmail.com**
-
-- ⚡ Fun fact **I think I am too serious 🙂**
-
-
-<h3 align="left">Connect with me:</h3>
+<h2> Contact Me</h2>  
 <p align="left">
 <a href="https://linkedin.com/in/sejal-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sejal-srivastava" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Sejal1299" target="blank">
