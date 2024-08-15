@@ -9,6 +9,7 @@
   
 -  🔭 Have a look at my [Resume](https://drive.google.com/file/d/1_ZYhBf20TExJlfu7MqvUwJPPLbzw8T6I/view?usp=drivesdk)
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/10549/screenshots/9890798/media/f38f0e4d71d9763c7533641d2418b35b.png?resize=1000x750&vertical=center"> 
 
 <h2> Contact Me</h2>  
 <p align="left">
