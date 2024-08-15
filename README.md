@@ -47,9 +47,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<h2 align="left">⚡Activity Graph:</h2>
-   <a><img alt="Activity Graph(https://sejal99.github.io/github-readme-activity-graph/)" src="https://github-readme-activity-graph.vercel.app/graph?username=sejal99&bg_color=819cc1&color=b300a4&line=b9e260&point=6e59d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
-   </a>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sejal99&theme=flat&no-frame=false&no-bg=true&margin-w=4)
