@@ -1,6 +1,6 @@
 
 <div style="overflow: hidden;">
-    <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/10549/screenshots/9890798/media/f38f0e4d71d9763c7533641d2418b35b.png?resize=1000x750&vertical=center">
+    <img align="right" alt="coding" width="200" style="margin-top: 20px;" src="https://cdn.dribbble.com/users/10549/screenshots/9890798/media/f38f0e4d71d9763c7533641d2418b35b.png?resize=1000x750&vertical=center">
     <h1> Hey! Nice to see you 🖐️ </h1>
     <ul>
         <li>🔭 I’m a <strong>Full Stack Web Developer</strong></li>
@@ -9,6 +9,7 @@
         <li>🔭 Have a look at my <a href="https://drive.google.com/file/d/1_ZYhBf20TExJlfu7MqvUwJPPLbzw8T6I/view?usp=drivesdk">Resume</a></li>
     </ul>
 </div>
+
 
 
 
