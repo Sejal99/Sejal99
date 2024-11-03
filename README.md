@@ -1,7 +1,7 @@
 
 
  <h1> Hey! Nice to see you 🖐️ </h1>
- <img align='right' src="https://user-images.githubusercontent.com/59651136/113977552-6133d000-9860-11eb-8e0e-dd697f931273.gif" width="200">
+ <img align='right' src="https://user-images.githubusercontent.com/59651136/113977552-6133d000-9860-11eb-8e0e-dd697f931273.gif" width="300">
 
 
 - 🔭 I’m a **Full Stack Web Developer**
