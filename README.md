@@ -20,7 +20,7 @@
 <a href="https://leetcode.com/u/Sejal1299" target="blank">
   <img
     align="center"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg"
+    src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"
     alt="leetcode"
     height="30"
     width="40"
