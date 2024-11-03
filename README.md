@@ -1,6 +1,6 @@
 
 
-<h2 style="no-underline">Hey! Nice to see you <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
+<h1 style="no-underline">Hey! Nice to see you </h1>
  
  <img align='right' src="https://user-images.githubusercontent.com/59651136/113977552-6133d000-9860-11eb-8e0e-dd697f931273.gif" width="260">
 
