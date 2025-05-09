@@ -54,7 +54,14 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sejal99&show_icons=true&locale=en&layout=compact" alt="sejal99" /></p>
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejal99&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5" 
+    alt="sejal99's top languages" 
+    align="left" 
+  />
+</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sejal99&show_icons=true&locale=en&count_private=true"" alt="sejal99" /></p>
 
