@@ -6,11 +6,14 @@
 
 
 
-👩‍💻 About Me
 
-- 💼 I’m a Software Engineer specializing in Full Stack Development
+### 👩‍💻 About Me
 
-- 🔭 Currently building robust mobile and web applications
+Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves building modern web and mobile applications. I enjoy crafting clean UIs, scalable backends, and everything in between. With a strong grip on the **MERN stack** and **React Native**, I bring ideas to life through code.
+
+- 🚀 Currently exploring advanced mobile development and backend architecture
+- 🎯 I believe in continuous learning, clean code, and meaningful collaboration
+- 🛠️ I thrive in building products that make a real-world impact
 
 - 📫 Reach me on **sejal8974@gmail.com**
 
