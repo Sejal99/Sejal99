@@ -93,8 +93,10 @@ Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sejal99&" alt="sejal99" /></p>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sejal99&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sejal99&theme=gruvbox&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ### 🎯 Fun Facts
