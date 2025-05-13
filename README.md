@@ -5,7 +5,7 @@
  <img align='right' src="https://user-images.githubusercontent.com/59651136/113977552-6133d000-9860-11eb-8e0e-dd697f931273.gif" width="240">
 
 
-- 🔭 I’m a **Full Stack Web Developer**
+- 🔭 I’m a **Software Engineer**
 
 - 📫 Reach me on **sejal8974@gmail.com**
 
@@ -19,7 +19,7 @@
 
 
 
-<h2> Contact Me</h2>  
+### 📫 Contact Me
 <p align="left">
 <a href="https://linkedin.com/in/sejal-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sejal-srivastava" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Sejal1299" target="blank">
@@ -34,6 +34,7 @@
 
 </p>
 
+---
 
 
 ### 💻 Tech Stack
