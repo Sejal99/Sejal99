@@ -72,7 +72,8 @@ Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves 
 
 ### 📈 GitHub Activity Graph
 
-[![Sejal's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sejal99&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sejal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sejal99&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ### 📊 GitHub Stats
