@@ -5,7 +5,12 @@
  <img align='right' src="https://user-images.githubusercontent.com/59651136/113977552-6133d000-9860-11eb-8e0e-dd697f931273.gif" width="240">
 
 
-- 🔭 I’m a **Software Engineer**
+
+👩‍💻 About Me
+
+- 💼 I’m a Software Engineer specializing in Full Stack Development
+
+- 🔭 Currently building robust mobile and web applications
 
 - 📫 Reach me on **sejal8974@gmail.com**
 
@@ -35,6 +40,8 @@
 </p>
 
 ---
+
+
 
 
 ### 💻 Tech Stack
