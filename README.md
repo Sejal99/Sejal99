@@ -15,12 +15,6 @@ Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves 
 - 🎯 I believe in continuous learning, clean code, and meaningful collaboration
 - 🛠️ I thrive in building products that make a real-world impact
 
-- 📫 Reach me on **sejal8974@gmail.com**
-
-- 💬 Have a look at my [Portfolio](https://my-portfolio-sejal99.vercel.app/)
-  
--  🔭 Have a look at my [Resume](https://drive.google.com/file/d/1_ZYhBf20TExJlfu7MqvUwJPPLbzw8T6I/view?usp=drivesdk)
-
 
 
 ---
@@ -37,6 +31,8 @@ Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves 
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="30" width="30" />
   </a>
 </p>
+
+📧 **Email:** [sejal8974@gmail.com](mailto:sejal8974@gmail.com)
 
 ---
 
