@@ -95,3 +95,11 @@ Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sejal99&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+
+
+### 🎯 Fun Facts
+
+- 🧠 I solve at least one coding challenge every day
+- ☕ Coffee and code is my favorite combo
+- 📝 "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
