@@ -105,8 +105,8 @@ Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves 
 <p>
   <img
     align="center"
-    src="https://streak-stats.demolab.com?user=sejal99&theme=tokyonight"
-    alt="sejal99"
+    src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=sejal99&theme=tokyonight"
+    alt="sejal99 streak"
   />
 </p>
 
