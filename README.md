@@ -84,12 +84,11 @@ Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves 
 
 ### 📊 GitHub Stats
 
-
 <p>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejal99&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5" 
-    alt="sejal99's top languages" 
-    align="left" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sejal99&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5"
+    alt="sejal99's top languages"
+    align="left"
   />
 </p>
 
