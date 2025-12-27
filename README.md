@@ -114,7 +114,7 @@ Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves 
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sejal99&theme=gruvbox&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy-sigma-five.vercel.app/?username=sejal99&theme=gruvbox&no-bg=true&margin-w=10&column=7)
 
 
 
