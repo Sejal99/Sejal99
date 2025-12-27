@@ -94,7 +94,7 @@ Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves 
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sejal99&show_icons=true&include_all_commits=true&locale=en&count_private=true"" alt="sejal99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sejal99&show_icons=true&include_all_commits=true&locale=en&count_private=true" alt="sejal99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sejal99&" alt="sejal99" /></p>
 
