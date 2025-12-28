@@ -21,6 +21,37 @@ Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves 
 
 
 
+### 📊 GitHub Stats
+
+<p>
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sejal99&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5"
+    alt="sejal99's top languages"
+    align="left"
+  />
+</p>
+
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sejal99&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    alt="sejal99"
+  />
+</p>
+
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=sejal99&theme=tokyonight"
+    alt="sejal99 streak"
+  />
+</p>
+
+
+
+
 ### 📫 Contact Me
 
 <p align="left">
@@ -79,37 +110,6 @@ Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves 
 ### 📈 GitHub Activity Graph
 
 [![Sejal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sejal99&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-### 📊 GitHub Stats
-
-<p>
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sejal99&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5"
-    alt="sejal99's top languages"
-    align="left"
-  />
-</p>
-
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sejal99&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    alt="sejal99"
-  />
-</p>
-
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=sejal99&theme=tokyonight"
-    alt="sejal99 streak"
-  />
-</p>
-
 
 
 ### 🏆 GitHub Trophies
