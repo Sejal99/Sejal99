@@ -72,12 +72,9 @@ Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves 
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="30" width="30" />
   </a>
   &nbsp;&nbsp;
-<a href="https://medium.com/@sejal8974" target="_blank"
-   style="background:white; padding:5px; border-radius:50%;">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png"
-       alt="Medium" width="30" height="30" />
+<a href="https://medium.com/@sejal8974" target="_blank">
+  <img src="https://simpleicons.org/icons/medium.svg" width="30" height="30" />
 </a>
-
 
 </p>
 
