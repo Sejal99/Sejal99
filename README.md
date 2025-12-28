@@ -23,6 +23,18 @@ Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves 
 
 ### 📊 GitHub Stats
 
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sejal99&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    alt="sejal99"
+  />
+</p>
+
+
+
+
 <p>
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sejal99&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5"
@@ -32,13 +44,6 @@ Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves 
 </p>
 
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sejal99&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    alt="sejal99"
-  />
-</p>
 
 
 <p>
