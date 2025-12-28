@@ -73,9 +73,13 @@ Hi there! I'm Sejal Srivastava — a passionate **Software Engineer** who loves 
   </a>
   &nbsp;&nbsp;
 <a href="https://medium.com/@sejal8974" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111543.png" 
-       alt="Medium" width="30" height="30" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png"
+       alt="Medium"
+       width="30"
+       height="30"
+       style="filter: invert(1);" />
 </a>
+
 </p>
 
 📧 **Email:** [sejal8974@gmail.com](mailto:sejal8974@gmail.com)
