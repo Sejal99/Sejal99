@@ -2,7 +2,7 @@
 
 <h1 style="no-underline">Hey there! 👋 I'm Sejal Srivastava </h1>
  
- <img align='right' src="https://user-images.githubusercontent.com/59651136/113977552-6133d000-9860-11eb-8e0e-dd697f931273.gif" width="100">
+ <img align='right' src="https://github.com/anreetka/anreetka" width="100">
 
 
 
