@@ -67,7 +67,7 @@ Hi there! I'm Sejal Srivastava — Software Engineer building modern web & mobil
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="30" width="30" />
   </a>
   &nbsp;&nbsp;
-<a href="https://medium.com/@sejal8974">
+<a href="[https://medium.com/@sejal8974](https://medium.com/@SejalSrivastava)">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
