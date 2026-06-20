@@ -41,13 +41,13 @@ Hi there! I'm Sejal Srivastava — Software Engineer building modern web & mobil
 
 
 
-<p>
+<!-- <p>
   <img
     align="center"
     src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=sejal99&theme=tokyonight"
     alt="sejal99 streak"
   />
-</p>
+</p> -->
 
 
 
