@@ -20,16 +20,14 @@ Hi there! I'm Sejal Srivastava — Software Engineer building modern web & mobil
 
 <p>
   <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=sejal99&show_icons=true&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api?username=sejal99&show_icons=true&theme=tokyonight"
     alt="Sejal's GitHub Stats"
   />
 </p>
 
 <p>
   <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejal99&layout=compact&langs_count=8&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sejal99&layout=compact&langs_count=8&theme=tokyonight"
     alt="Sejal's Top Languages"
   />
 </p>
