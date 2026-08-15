@@ -16,28 +16,21 @@ Hi there! I'm Sejal Srivastava — Software Engineer building modern web & mobil
 
 
 
-### 📊 GitHub Stats
-
-
 <p>
   <img
     align="center"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sejal99&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    alt="sejal99"
+    src="https://github-stats-extended.vercel.app/api?username=sejal99&show_icons=true&include_all_commits=true&theme=tokyonight"
+    alt="Sejal's GitHub Stats"
   />
 </p>
-
-
-
 
 <p>
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sejal99&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5"
-    alt="sejal99's top languages"
+  <img
     align="left"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sejal99&layout=compact&langs_count=8&theme=tokyonight"
+    alt="Sejal's top languages"
   />
 </p>
-
 
 
 
