@@ -9,7 +9,14 @@
 
 ### 👩‍💻 About Me
 
-Hi there! I'm Sejal Srivastava — Software Engineer building modern web & mobile applications with the MERN stack and React Native. Focused on clean code, scalable systems, and real-world impact.
+React Native developer with 3+ years of experience building and shipping production mobile apps. I currently work at Appinventiv, where I focus on performance-critical and native-bridge work — React Native's New Architecture (JSI, TurboModules, Fabric, Codegen), custom Kotlin modules for Android, and GraphQL-driven data layers with Apollo Client.
+
+I like working close to the native layer — the kind of problems where JS alone doesn't cut it and you have to reason about the bridge, threading, and platform APIs.
+
+🔭 Currently deepening my open-source contributions in the React Native ecosystem
+🧩 Comfortable across MVVM + Atomic Design architecture, state management (Zustand), and fast local storage (MMKV)
+🎥 Have shipped media-heavy features using JWPlayer integration
+📍 Based in Noida, India
 
 
 ---
