@@ -14,8 +14,11 @@ React Native developer with 3+ years of experience building and shipping product
 I like working close to the native layer — the kind of problems where JS alone doesn't cut it and you have to reason about the bridge, threading, and platform APIs.
 
 🔭 Currently deepening my open-source contributions in the React Native ecosystem
+
 🧩 Comfortable across MVVM + Atomic Design architecture, state management (Zustand), and fast local storage (MMKV)
+
 🎥 Have shipped media-heavy features using JWPlayer integration
+
 📍 Based in Noida, India
 
 
