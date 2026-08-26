@@ -47,10 +47,10 @@ I like working close to the native layer — the kind of problems where JS alone
 
  <p>
   <img
-    align="center"
-    src="https://streak-stats.demolab.com?user=sejal99&theme=tokyonight"
-    alt="sejal99 streak"
-  />
+  align="center"
+  src="https://github-readme-streak-stats.herokuapp.com?user=sejal99&theme=tokyonight"
+  alt="sejal99 streak"
+ />
  </p>
 
 
