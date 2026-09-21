@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sejal Srivastava&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 10, Total Commits  : 1699, Total PRs: 10, Total Issues: 1, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 10, Total Commits  : 1701, Total PRs: 10, Total Issues: 1, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 191.81808681595504;
+        stroke-dashoffset: 191.80021399485952;
       }
     }
   
