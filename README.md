@@ -20,14 +20,14 @@ I enjoy solving problems beyond UI development: performance optimization, native
 
 ### 🚀 Featured Work
 
-**1. React Native Network Resilience**
+**React Native Network Resilience**
 
 An open-source React Native package focused on improving network request reliability through retry policies, request deduplication, connectivity handling, and persistent request queuing.
 
 - [GitHub Repository](https://github.com/Sejal99/react-native-network-resilience)
 - [View on npm](https://www.npmjs.com/package/react-native-network-resilience)
 
-**2. Calmora**
+**Calmora**
 
 A mobile wellness application exploring mood tracking, personalized experiences, local persistence, cloud synchronization, and interactive features.
 
@@ -79,17 +79,32 @@ Git · GitHub · Docker · Postman · Android Studio · Xcode
 
 ### ✍️ Technical Writing
 
-I also enjoy documenting engineering concepts and sharing what I learn.
+I enjoy documenting engineering concepts and sharing what I learn.
 
 - [Read my articles on Medium](https://medium.com/@SejalSrivastava)
 
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sejal99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sejal's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejal99&layout=compact&theme=tokyonight&hide_border=true" alt="Sejal's Top Languages" />
+</p>
+
 ### 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/sejal-srivastava)
-- [GitHub](https://github.com/Sejal99)
-- [Medium](https://medium.com/@SejalSrivastava)
-- [LeetCode](https://leetcode.com/u/Sejal1299)
-- [Email](mailto:sejal8974@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/sejal-srivastava">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@SejalSrivastava">
+    <img src="https://img.shields.io/badge/Medium-Read%20Articles-black?style=for-the-badge&logo=medium" alt="Medium" />
+  </a>
+  <a href="https://leetcode.com/u/Sejal1299">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
+</p>
+
+📧 **Email:** [sejal8974@gmail.com](mailto:sejal8974@gmail.com)
 
 ---
 
