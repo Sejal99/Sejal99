@@ -92,16 +92,19 @@ I enjoy documenting engineering concepts and sharing what I learn.
 
 ### 📫 Let's Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/sejal-srivastava">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@SejalSrivastava">
-    <img src="https://img.shields.io/badge/Medium-Read%20Articles-black?style=for-the-badge&logo=medium" alt="Medium" />
-  </a>
-  <a href="https://leetcode.com/u/Sejal1299">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  </a>
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Sejal99&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Sejal's GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejal99&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Sejal's Top Languages"
+  />
 </p>
 
 📧 **Email:** [sejal8974@gmail.com](mailto:sejal8974@gmail.com)
