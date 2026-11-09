@@ -1,136 +1,96 @@
+# Hey, I'm Sejal Srivastava 👋
 
+### Software Engineer | Mobile Engineering | Full-Stack Development | Open Source
 
-<h1 style="no-underline">Hey there! 👋 I'm Sejal Srivastava </h1>
- 
- <img align='right' src="https://camo.githubusercontent.com/f1cd8db6c32f03be735c1334e771e9334b768103b94d1ff361177c4d34cf492b/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" width="200">
+I build mobile applications and explore the engineering systems behind them — from React Native and native Android integrations to backend APIs and data layers.
 
+I'm a Software Engineer at **Appinventiv**, with 3+ years of experience building and shipping production mobile applications for Android and iOS.
 
+I enjoy solving problems beyond UI development: performance optimization, native platform integrations, application architecture, real-time systems, and building reusable developer tools.
 
+### 👩‍💻 What I Work On
 
-### 👩‍💻 About Me
+- 📱 **Mobile Engineering:** React Native, TypeScript, Android native integrations, Kotlin
+- ⚙️ **React Native Internals:** JSI, TurboModules, Fabric, Codegen, Hermes
+- 🏗️ **Application Architecture:** MVVM, Atomic Design, modular architecture
+- 🔌 **API & Data Layer:** GraphQL, Apollo Client, REST APIs, WebSockets
+- 🚀 **Backend Engineering:** Node.js, Express.js, PostgreSQL, Prisma
+- ⚡ **Performance & Storage:** MMKV, caching, optimization, efficient state management
+- 🎥 **Media Engineering:** JW Player, React Native Video, Picture-in-Picture
 
-React Native developer with 3+ years of experience building and shipping production mobile apps. I currently work at Appinventiv, where I focus on performance-critical and native-bridge work — React Native's New Architecture (JSI, TurboModules, Fabric, Codegen), custom Kotlin modules for Android, and GraphQL-driven data layers with Apollo Client.
+### 🚀 Featured Work
 
-I like working close to the native layer — the kind of problems where JS alone doesn't cut it and you have to reason about the bridge, threading, and platform APIs.
+**1. React Native Network Resilience**
 
-🔭 Currently deepening my open-source contributions in the React Native ecosystem
+An open-source React Native package focused on improving network request reliability through retry policies, request deduplication, connectivity handling, and persistent request queuing.
 
-🧩 Comfortable across MVVM + Atomic Design architecture, state management (Zustand), and fast local storage (MMKV)
+- [GitHub Repository](https://github.com/Sejal99/react-native-network-resilience)
+- [View on npm](https://www.npmjs.com/package/react-native-network-resilience)
 
-🎥 Have shipped media-heavy features using JWPlayer integration
+**2. Calmora**
 
-📍 Based in Noida, India
+A mobile wellness application exploring mood tracking, personalized experiences, local persistence, cloud synchronization, and interactive features.
 
+- [Explore Repository](https://github.com/Sejal99/Calmora)
 
----
+### 🌱 Currently Exploring
 
+- Building scalable backend systems with Node.js and PostgreSQL
+- Database design, Prisma ORM, and transaction management
+- React Native New Architecture and native platform internals
+- Meaningful open-source contributions
+- System design and software architecture
 
+### 🤝 Open Source & Community
 
-### 📊 GitHub Stats
+I believe in learning by building and contributing.
 
-<p>
-  <img
-    align="center"
-    src="./profile/stats.svg"
-    alt="Sejal's GitHub stats"
-  />
-</p>
+I'm interested in:
+- Contributing to impactful open-source projects
+- Collaborating with developers across the world
+- Participating in hackathons and developer programmes
+- Sharing engineering knowledge through technical writing
 
-<p>
-  <img
-    align="left"
-    src="./profile/top-langs.svg"
-    alt="Sejal's top languages"
-  />
-</p>
+### 🛠️ Technologies & Tools
 
+**Languages**
 
- <p>
-  <img
-  align="center"
-  src="https://github-readme-streak-stats.herokuapp.com?user=sejal99&theme=tokyonight"
-  alt="sejal99 streak"
- />
- </p>
+JavaScript · TypeScript · Kotlin · SQL
 
+**Mobile & Frontend**
 
+React Native · React · Next.js · Android
 
+**Backend & APIs**
 
+Node.js · Express.js · REST · GraphQL · Apollo Client · WebSockets
 
+**Databases & Storage**
 
+PostgreSQL · Prisma · MongoDB · Firebase · MMKV
 
+**State Management & Architecture**
 
-### 📫 Contact Me
+Zustand · Redux · MVVM · Atomic Design
 
-<p align="left">
-  <a href="https://linkedin.com/in/sejal-srivastava" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Sejal1299" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" height="30" width="30" />
-  </a>
-  &nbsp;&nbsp;
-<a href="https://medium.com/@SejalSrivastava">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
+**Tools & Platforms**
 
+Git · GitHub · Docker · Postman · Android Studio · Xcode
 
-</p>
+### ✍️ Technical Writing
 
-📧 **Email:** [sejal8974@gmail.com](mailto:sejal8974@gmail.com)
+I also enjoy documenting engineering concepts and sharing what I learn.
 
+- [Read my articles on Medium](https://medium.com/@SejalSrivastava)
 
----
+### 📫 Let's Connect
 
-
-
-
-### 💻 Tech Stack
-
-
-#### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### Frontend
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-#### Backend & Database
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-#### Tools & Platforms
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
+- [LinkedIn](https://linkedin.com/in/sejal-srivastava)
+- [GitHub](https://github.com/Sejal99)
+- [Medium](https://medium.com/@SejalSrivastava)
+- [LeetCode](https://leetcode.com/u/Sejal1299)
+- [Email](mailto:sejal8974@gmail.com)
 
 ---
 
-### 📈 GitHub Activity Graph
-
-[![Sejal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sejal99&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-### 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy-eight.vercel.app/?username=sejal99&theme=gruvbox&no-bg=true&margin-w=10&column=7)
-
-
-
-### 🎯 Fun Facts
-
-- 🧠 I solve at least one coding challenge every day
-- ☕ Coffee and code is my favorite combo
-- 📝 "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
+*Building, learning, contributing — one commit at a time.*
