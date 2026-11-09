@@ -85,16 +85,19 @@ I enjoy documenting engineering concepts and sharing what I learn.
 
 ### 📊 GitHub Statistics
 
-<p align="center">
+<p>
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Sejal99&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Sejal's GitHub Stats"
+    align="center"
+    src="./profile/stats.svg"
+    alt="Sejal's GitHub stats"
   />
+</p>
+
+<p>
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejal99&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Sejal's Top Languages"
+    align="left"
+    src="./profile/top-langs.svg"
+    alt="Sejal's top languages"
   />
 </p>
 
